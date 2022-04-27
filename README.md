@@ -4,7 +4,7 @@
 
 # ANIMAIS FANTÁSTICOS
 
-Projeto Relógio Analógico e Digital com temas dark/light e data atual.
+Projeto treino Relógio Analógico e Digital com temas dark/light e data atual.
 
 ## FEITO COM
 
